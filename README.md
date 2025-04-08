@@ -1,7 +1,8 @@
-# 👋 Hi, I’m Bathala Shivasai Avinash
+<h1 align="center">👋 Hi, I’m Bathala Shivasai Avinash</h1>
 
-Welcome to my GitHub! I’m currently a **Java Full Stack Trainee**, learning and exploring core technologies step-by-step to become a proficient developer.
-
+<p align="center">
+  <strong>Java Full Stack Trainee</strong> at Codegnan Destination | Passionate about learning and building projects
+</p>
 ---
 
 ## 👨‍💻 Technologies I'm Learning
