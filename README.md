@@ -7,10 +7,21 @@
 
 ## 👨‍💻 Technologies I'm Learning
 
-- ☕ **Java** – Core concepts, OOP, and backend fundamentals  
-- 🌐 **HTML, CSS, JavaScript** – Building the foundation of web development  
-- ⚛️ **React.js** – Learning how to create dynamic frontend interfaces  
-- 🗄️ **MySQL** – Understanding database operations and queries
+☕ Java – Core concepts, OOP, backend development
+
+🌐 HTML, CSS, JavaScript – Building responsive and interactive web pages
+
+⚛️ React.js – Developing dynamic and component-based frontend interfaces
+
+🗄️ MySQL – Performing database design and query operations
+
+🔌 JDBC – Connecting Java applications to databases for CRUD operations
+
+🌐 Servlets & JSP – Building web-based backend logic and dynamic web pages
+
+🌀 Hibernate – Implementing ORM for efficient database interaction and mapping
+
+
 
 ---
 
@@ -21,10 +32,12 @@
 ---
 
 ## 💞️ Looking to Collaborate On
+Mini-projects in Java, JDBC, Servlets/JSP, Hibernate, or React
 
-- Mini-projects in Java or React  
-- Learning-focused practice repositories  
-- Connecting with fellow learners and developers
+Open-source or learning-focused practice repositories
+
+Connecting with passionate learners, developers, and collaborators
+
 
 ---
 
