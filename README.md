@@ -11,16 +11,17 @@
 
 🌐 HTML, CSS, JavaScript – Building responsive and interactive web pages
 
-⚛️ React.js – Developing dynamic and component-based frontend interfaces
+⚛️ React.js – Creating dynamic and reusable frontend components
 
-🗄️ MySQL – Performing database design and query operations
+🗄️ MySQL – Database design and query handling
 
-🔌 JDBC – Connecting Java applications to databases for CRUD operations
+🔌 JDBC – Connecting Java apps with databases
 
-🌐 Servlets & JSP – Building web-based backend logic and dynamic web pages
+🌐 Servlets & JSP – Building backend logic and dynamic web applications
 
-🌀 Hibernate – Implementing ORM for efficient database interaction and mapping
+🌀 Hibernate – Simplifying database operations using ORM
 
+🌱 Spring Framework – Developing scalable and modular enterprise-level applications
 
 
 ---
